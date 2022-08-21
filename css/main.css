@@ -1,0 +1,20 @@
+.main {
+    padding: 80px 495.5px;
+}
+.main-title {
+    text-align: center;
+    font-size: 36px;
+    text-transform: uppercase;
+    margin-bottom: 34px;
+    color: #212121;
+    font-family: "Raleway";
+}
+.main-text p {
+    width: 400px;
+    font-size: 14px;
+    padding: 68px 0;
+    margin: auto;
+    color: #86878b;
+    text-align: center;
+    font-family: "Open sans";
+}
